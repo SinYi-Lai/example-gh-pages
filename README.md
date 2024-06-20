@@ -13,5 +13,5 @@
 - 將回答數據存到 Strapi 資料庫
 
 ---
-[![image](https://s3.amazonaws.com/prod-newsleopard-upload-img/4028814380bbe5b20181095a3bce1bc8/2024-06-20-11-21-19-S__93003783_0.png)](https://sinyi-lai.github.io/swg-proofpoint/)
+[![image](https://s3.amazonaws.com/prod-newsleopard-upload-img/4028814380bbe5b20181095a3bce1bc8/2024-06-20-11-28-06-S__93003783_0.png)](https://sinyi-lai.github.io/swg-proofpoint/)
 >展覽現場照片
